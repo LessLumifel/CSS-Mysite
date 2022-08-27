@@ -1,3 +1,17 @@
+.top{
+    background-color: aquamarine;
+    margin-top: 0%;
+}
 body{
-    background-color: blue;
+    margin: 0%;
+}
+.mid{
+    width: 200px;
+    height: 200px;
+    background-color: chartreuse;
+}
+.botton{
+    width: 200px;
+    height: 200px;
+    background-color: hotpink;
 }
